@@ -19,10 +19,8 @@
     justify-content: space-around
   }
 
-  .links {
-    padding: 5px;
-    display: flex;
-    justify-content: flex-end;
+  .signup {
+    margin-left: auto;
   }
 
   .login {
