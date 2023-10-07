@@ -42,11 +42,6 @@
     align-items: center;
   }
 
-.social,
-.logo,
-.subscribe {
-  border: 1px solid #5995DA;
-}
 .photo-grid-container {
   display: flex;
   justify-content: center;
@@ -62,7 +57,6 @@
 }
 
 .photo-grid-item {
-  border: 1px solid #fff;
   width: 300px;
   height: 300px;
 }
